@@ -5,6 +5,11 @@ About
 -----
 doc.js is yet another tiny javascript framework, but I'm thumbing my nose at backwards compatibility and embracing what modern browses have to offer to provide functionality that we all use pretty much everyday without having to use a framework that brings its kitchen sink to the table.  
 
+
+https://gist.github.com/paulirish/12fb951a8b893a454b32
+https://news.ycombinator.com/item?id=9717553
+
+
 Wondering about what we can do with *pure ECMA support*?
 * Selecting elements by the CSS selector?  No problem - we've got document.querySelector and document.querySelectorAll for that.
 * Knowning when the document is ready? There is the *DOMContentLoaded* event for that.
